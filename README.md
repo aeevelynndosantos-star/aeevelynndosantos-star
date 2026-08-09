@@ -26,7 +26,7 @@
 </div>
 
 
-## ˚₊‧ ꒰ 🧸 ꒱ 💬 Sobre Mim
+## ˚₊‧ ꒰ 🧸 ꒱ Sobre Mim
 
 ```yaml
 Nome...........: Evelyn dos Santos
