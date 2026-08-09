@@ -41,7 +41,7 @@ Status.........: ONLINE & CODANDO
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Status.........: ONLINE & CODANDO
 
 ---
 
-# 🛠 Ferramentas
+# Ferramentas
 
 <div align="center">
 
@@ -62,32 +62,6 @@ Status.........: ONLINE & CODANDO
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
----
-
-# 📂 Projetos
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Projeto IA
-
-Sistema inteligente utilizando IA para automação e análise.
-
-**Stack**
-
-Python • APIs • Machine Learning
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Application
-
-Aplicação moderna focada em desempenho.
 
 **Stack**
 
@@ -101,7 +75,7 @@ React • Node.js • MongoDB
 
 <td width="50%">
 
-### 📊 Dashboard
+### Dashboard
 
 Painel responsivo para análise de dados.
 
@@ -109,7 +83,7 @@ Painel responsivo para análise de dados.
 
 <td width="50%">
 
-### ⚙ API REST
+### API REST
 
 Backend robusto seguindo boas práticas.
 
@@ -119,59 +93,16 @@ Backend robusto seguindo boas práticas.
 
 </table>
 
----
 
-# 💻 Objetivos Atuais
-
-```bash
-> boot.sh
-
-[✓] Aprimorar Java
-[✓] Criar projetos completos
-[✓] Melhorar arquitetura Backend
-[ ] Conseguir oportunidade como Desenvolvedor
-```
-
-
-# 📈 GitHub Analytics
+# Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aeevelynndosantos-star&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeevelynndosantos-star&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aeevelynndosantos-star&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=<SEU_USUARIO>&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<SEU_USUARIO>&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=<SEU_USUARIO>&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
-
-# 🐍 Snake Contribution
+# Snake Contribution
 
 <div align="center">
 
@@ -182,7 +113,7 @@ Backend robusto seguindo boas práticas.
 
 <div align="center">
 
-### ⚡ SYSTEM STATUS
+### SYSTEM STATUS
 
 ```text
 ████████████████████████████ 100%
@@ -196,7 +127,7 @@ Coffee Level...........██████████
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:06B6D4,50:2563EB,100:0F172A"/>
 
-**Thanks for visiting! **
+**Thanks for visiting!**
 
 </div>
 
